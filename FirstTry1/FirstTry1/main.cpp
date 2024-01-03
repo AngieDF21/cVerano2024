@@ -7,9 +7,15 @@
 
 #include <iostream>
 
+
 using namespace std;
 
-int main(int argc, const char * argv[]) {
-// yeah lo logre!
-    return 0;
+int main()
+{
+    {
+        
+    }
+    
+    
+    
 }
